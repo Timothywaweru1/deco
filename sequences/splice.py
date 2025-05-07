@@ -20,3 +20,13 @@ num = ["1","3","9","10"]
 #     print(num)
 num.remove("10")
 print(num)
+
+# for num in num:
+#     print(num)
+
+
+print(num[:3:2])
+
+
+wrds = "hello world!"     #a space is also a word!!
+print(wrds[:-1])
